@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Print window content</title>
+    <script>
+        //Print window content
+        window.onload=init;
+        function init() {
+            var button= document.getElementById("print_button");
+            button.onclick=printWindow;
+        }
+        function printWindow() {
+            window.print();
+        }
+
+    </script>
+
+</head>
+<body>
+
+<input type="button" id="print_button" value="Print Window">
+
+
+
+</body>
+</html>

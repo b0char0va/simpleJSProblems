@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Modifying Date to Specific Format</title>
+    <script> //calculate multiplication and division from user input.
+        window.onload=init;
+        function init() {
+            var button1=document.getElementById("button1");
+            var button2=document.getElementById("button2");
+            button1.onclick=result1;
+            button2.onclick=result2;
+        }
+        function result1() {
+            var firstNumber=document.getElementById("firstNumber");
+            var f=firstNumber.value;
+            var secondNumber=document.getElementById("secondNumber");
+            var s=secondNumber.value;
+            var output=document.getElementById("output");
+            output.innerHTML=multiplyAnswer(f,s);
+        }
+    function result2() {
+        var firstNumber=document.getElementById("firstNumber");
+        var f=firstNumber.value;
+        var secondNumber=document.getElementById("secondNumber");
+        var s=secondNumber.value;
+        var output=document.getElementById("output");
+        output.innerHTML=divideAnswer(f,s);
+    }
+    function multiplyAnswer(f,s) {
+            return("Answer is "+ f*s);
+        }
+    function divideAnswer(f,s) {
+        return("Answer is "+ f/s);
+    }
+
+
+    </script>
+
+</head>
+<body>
+<h1>Input any two number to multiple and divide</h1>
+<input type="text" id="firstNumber" placeholder="firstNumber">
+<input type="text" id="secondNumber" placeholder="secondNumber">
+<input type="button" id="button1" value="Multiply">
+<input type="button" id="button2" value="Divide">
+<div id="output"></div>
+
+
+
+
+
+
+</body>
+</html>
