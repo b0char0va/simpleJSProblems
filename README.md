@@ -1,7 +1,7 @@
-001 Write a JavaScript program to display the current day and time in specific format <br/>
+001 A JavaScript program to display the current day and time in specific format <br/>
 002 Change user input date format from dd/mm/yyyy to yyyymmdd <br/>
 003 Print window content <br/>
-004 Write a JavaScript program to get the current date and then changing format <br/>
+004 A JavaScript program to get the current date and then changing format <br/>
 005 Calculate area of triangle using three sides <br/>
 006 A JavaScript program to determine whether a given year is a leap year <br/>
 007 A JavaScript program to find whether 1st January is Sunday between 2014 and 2050 <br/>
