@@ -11,10 +11,11 @@
 011 A JavaScript program to convert temperatures to and from Celsius, Fahrenheit <br/>
 012 A JavaScript program to create a new string adding "Py" in front of a given string. If the given string begins with "Py" then return the original string <br/>
 013 A JavaScript program to remove a character at the specified position of a given string and return the new string <br/>
-014 find the longest word in string<br/>
-015 find factorial</br>
-016 convert the string's each letter to next letter and also convert every vowel in the new string to upper case<br/>
-017 find sum of the numbers upto the number given, for eg: input 5, 1+2+3+4+5=15 <br/>
-018 convert every first letter of each word in a string to upper case<br/>
-019 reverse the string<br/>
-020 check if the string consisted of +,=, letters, and numbers is true. To be true each letter must be surrounded by a + symbol<br/>
+014 Find the longest word in string<br/>
+015 Find factorial</br>
+016 Convert the string's each letter to next letter and also convert every vowel in the new string to upper case<br/>
+017 Find sum of the numbers upto the number given, for eg: input 5, 1+2+3+4+5=15 <br/>
+018 Convert every first letter of each word in a string to upper case<br/>
+019 Reverse the string<br/>
+020 Check if the string consisted of +,=, letters, and numbers is true. To be true each letter must be surrounded by a + symbol<br/>
+021 Return true if num2 is greater than num1, return false if vice versa. Return -1 if both are equal.
