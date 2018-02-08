@@ -18,4 +18,5 @@
 018 Convert every first letter of each word in a string to upper case<br/>
 019 Reverse the string<br/>
 020 Check if the string consisted of +,=, letters, and numbers is true. To be true each letter must be surrounded by a + symbol<br/>
-021 Return true if num2 is greater than num1, return false if vice versa. Return -1 if both are equal.
+021 Return true if num2 is greater than num1, return false if vice versa. Return -1 if both are equal.<br/>
+022 Convert number into hours and minutes and output as hour:minute
