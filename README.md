@@ -17,3 +17,4 @@
 017 find sum of the numbers upto the number given, for eg: input 5, 1+2+3+4+5=15 <br/>
 018 convert every first letter of each word in a string to upper case<br/>
 019 reverse the string<br/>
+020 check if the string consisted of +,=, letters, and numbers is true. To be true each letter must be surrounded by a + symbol<br/>
