@@ -22,6 +22,9 @@
 022 Convert number into hours and minutes and output as hour:minute<br/>
 023 Sort string in  an alphabetical order<br/>
 024 The program that performs the following routine on the number: Arrange the digits in descending order and in ascending order (adding zeroes to fit it to a 4-digit number), and subtract the smaller number from the bigger number. Then repeat the previous step. Performing this routine will always cause you to reach a fixed number: 6174. Then performing the routine on 6174 will always give you 6174 (7641 - 1467 = 6174). Your program should return the number of times this routine must be performed until 6174 is reached. For example: if num is 3524 your program should return 3 because of the following steps: (1) 5432 - 2345 = 3087, (2) 8730 - 0378 = 8352, (3) 8532 - 2358 = 6174.<br/>
-025 determine how many dots exist in a pentagonal shape around a center dot on the Nth iteration. For example, in the image below you can see that on the first iteration there is only a single dot, on the second iteration there are 6 dots, on the third there are 16 dots, and on the fourth there are 31 dots. (Refer 025.jpg) 
-    Your program should return the number of dots that exist in the whole pentagon on the Nth iteration. 
+025 Determine how many dots exist in a pentagonal shape around a center dot on the Nth iteration. For example, in the image below you can see that on the first iteration there is only a single dot, on the second iteration there are 6 dots, on the third there are 16 dots, and on the fourth there are 31 dots. (Refer 025.jpg) 
+    Your program should return the number of dots that exist in the whole pentagon on the Nth iteration. <br/>
+026 Find the number of possible moves you can make to reach from current location to destination location if you can move only up and right in 8x8 chess board. The first part of string is current location, second part is destination location <br/>
+027 Find factorial using recursion
+
     
