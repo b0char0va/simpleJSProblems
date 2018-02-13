@@ -25,6 +25,8 @@
 025 Determine how many dots exist in a pentagonal shape around a center dot on the Nth iteration. For example, in the image below you can see that on the first iteration there is only a single dot, on the second iteration there are 6 dots, on the third there are 16 dots, and on the fourth there are 31 dots. (Refer 025.jpg) 
     Your program should return the number of dots that exist in the whole pentagon on the Nth iteration. <br/>
 026 Find the number of possible moves you can make to reach from current location to destination location if you can move only up and right in 8x8 chess board. The first part of string is current location, second part is destination location <br/>
-027 Find factorial using recursion
+027 Find factorial using recursion<br/>
+028 Find fibonacci number sequence using recursion<br/>
+029 Find fibonacci number sequence using for loop<br/>
 
     
