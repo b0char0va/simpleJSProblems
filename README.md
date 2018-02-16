@@ -1,3 +1,4 @@
+# Easy Javascript problems for beginners 
 001 A JavaScript program to display the current day and time in specific format <br/>
 002 Change user input date format from dd/mm/yyyy to yyyymmdd <br/>
 003 Print window content <br/>

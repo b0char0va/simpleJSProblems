@@ -1,3 +1,4 @@
+// find the number of possible moves you can make to reach from current location to destination location if you can move only up and right in 8x8 chess board. The first part of string is current location, second part is destination location.
 function count(x, y, a, b) {
     if (x === a && y === b) {
         return 1;

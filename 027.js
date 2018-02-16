@@ -1,3 +1,5 @@
+//Find factorial using recursion
+
 function f(num) {
     if (num === 1) {
         var result = 1;
@@ -9,6 +11,4 @@ function f(num) {
     return result;
 }
 
-r = f(25);
-
-console.log(r);
+console.log(f(25));
